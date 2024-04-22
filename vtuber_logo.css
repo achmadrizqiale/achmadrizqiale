@@ -1,0 +1,4 @@
+.editor-group-watermark > .letterspace{
+    background-image: url("https://github.com/achmadrizqiale/achmadrizqiale/blob/fb53c6892b2446f83166cf6dc176fbbf4d54a88e/VSCode/VSCode-Thick.png") !important;
+    opacity: .75;
+}
