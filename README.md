@@ -6,5 +6,9 @@
 - 📫 How to reach me: achmadrizqiale@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love ASCII art and kaomojis (´｡• ◡ •｡`) ♡
-- 📃 Certificates: AI-900 
--->
+- 📃 Microsoft Certified: Power BI Data Analyst Associate	- Jun 2025
+  - Credential ID: F674E46EE49CBD15
+  - Expires on: June 21, 2026
+- 📃 Microsoft Certified: Azure AI Fundamentals	- Jun 2024
+  - Credential ID: F674E46EE49CBD15
+  - Expires on: N/A 
