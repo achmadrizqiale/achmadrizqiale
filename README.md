@@ -12,3 +12,9 @@
 - 📃 Microsoft Certified: Azure AI Fundamentals	- Jun 2024
   - Credential ID: F674E46EE49CBD15
   - Expires on: N/A 
+
+## Sales Visit Dashboard
+[![Sales Visit Dashboard](https://img.youtube.com/vi/jIbI-qexHZs/0.jpg)](https://www.youtube.com/watch?v=jIbI-qexHZs)
+
+## Commpany Sales Dashboard
+[![Commpany Sales Dashboard](https://img.youtube.com/vi/JgIt1XEbSIw/0.jpg)](https://www.youtube.com/watch?v=JgIt1XEbSIw)
