@@ -1,11 +1,13 @@
-## Hi folks! Here's a quick overview about me 👋
+## Hi folks! Here's a quick overview about me (´｡• ᵕ •｡`)ﾉ
 
-- 🔭 I’m currently working Microsoft Training Specialist and IT Developer
-- 🌱 I’m currently learning to be Power BI Data Analyst and Fabric Data Engineer Associate
-- 💬 Ask me about Microsoft 365 End-User services (Teams, Office 365, etc..), Copilot Studio, & Azure AI Services 
-- 📫 How to reach me: achmadrizqiale@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love ASCII art and kaomojis (´｡• ◡ •｡`) ♡
+* ( •̀ ω •́ )✧ I’m currently working as a **Data Analyst in the FMCG & E-commerce industry**, focusing on business performance, sales, marketing, and marketplace data
+* (˶ᵔ ᵕ ᵔ˶) I work with **Power BI, Excel, Google Sheets, SQL, and Metabase** to turn data into actionable business insights
+* ( •̀ᴗ•́ )و I’m also working with **data automation & ETL workflows** using tools such as **n8n, AWS Glue, PostgreSQL, AWS S3, and SharePoint**
+* (ง •̀_•́)ง I’m currently expanding my skills toward **Microsoft Power BI Data Analyst** and **Microsoft Fabric Data Engineer**
+* (｡•̀ᴗ-)✧ Ask me about **Data Analytics, Power BI, Dashboard Development, E-commerce Analytics, Data Automation, and Microsoft 365**
+* (っ˘ω˘ς ) How to reach me: **[achmadrizqiale@gmail.com](mailto:achmadrizqiale@gmail.com)**
+* (￣▽￣)ノ Pronouns: **he/him**
+* (´｡• ◡ •｡`) ♡ Fun fact: I love **ASCII art and kaomojis**
 - 📃 Microsoft Certified: Power BI Data Analyst Associate	- Jun 2025
   - Credential ID: F674E46EE49CBD15
   - Expires on: June 21, 2026
