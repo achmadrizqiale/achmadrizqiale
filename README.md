@@ -18,5 +18,5 @@
 ## Sales Visit Dashboard
 [![Sales Visit Dashboard](https://img.youtube.com/vi/jIbI-qexHZs/0.jpg)](https://www.youtube.com/watch?v=jIbI-qexHZs)
 
-## Commpany Sales Dashboard
+## Company Sales Dashboard
 [![Commpany Sales Dashboard](https://img.youtube.com/vi/JgIt1XEbSIw/0.jpg)](https://www.youtube.com/watch?v=JgIt1XEbSIw)
