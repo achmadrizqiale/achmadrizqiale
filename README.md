@@ -1,22 +1,25 @@
 ## Hi folks! Here's a quick overview about me (´｡• ᵕ •｡`)ﾉ
 
-* ( •̀ ω •́ )✧ I’m currently working as a **Data Analyst in the FMCG & E-commerce industry**, focusing on business performance, sales, marketing, and marketplace data
-* (˶ᵔ ᵕ ᵔ˶) I work with **Power BI, Excel, Google Sheets, SQL, and Metabase** to turn data into actionable business insights
-* ( •̀ᴗ•́ )و I’m also working with **data automation & ETL workflows** using tools such as **n8n, AWS Glue, PostgreSQL, AWS S3, and SharePoint**
-* (ง •̀_•́)ง I’m currently expanding my skills toward **Microsoft Power BI Data Analyst** and **Microsoft Fabric Data Engineer**
-* (｡•̀ᴗ-)✧ Ask me about **Data Analytics, Power BI, Dashboard Development, E-commerce Analytics, Data Automation, and Microsoft 365**
-* (っ˘ω˘ς ) How to reach me: **[achmadrizqiale@gmail.com](mailto:achmadrizqiale@gmail.com)**
+* ( •̀ ω •́ )✧ I'm a **Data Analyst at Facetology**, working with sales, marketing, and e-commerce data in the **FMCG industry**
+* (˶ᵔ ᵕ ᵔ˶) I build dashboards and analyze performance with **Power BI, SQL, Metabase, Excel, and Google Sheets**
+* ( •̀ᴗ•́ )و I maintain **Apache Airflow** pipelines that bring together marketplace data from **Shopee and TikTok Shop**
+* (⌐■_■) I built an interactive **B2B sales dashboard** with **React, TypeScript, and Python**, from exec summary down to SKU
+* ( ˘▽˘)っ♨ Most of my code these days is written with **Claude Code and Codex**. I handle the reviewing (and the worrying)
+* (๑•̀ㅂ•́)و Previously built **Power BI reports, Power Apps, and 25+ Power Automate flows** at PT Sarana Solusindo Informatika, and trained **440+ people** on Microsoft tools
+* (ง •̀_•́)ง I'm currently working toward **Microsoft Fabric Data Engineer**
+* (｡•̀ᴗ-)✧ Ask me about **Data Analytics, Power BI, Dashboard Development, E-commerce Analytics, Data Pipelines, and Microsoft Power Platform**
+* (っ˘ω˘ς ) How to reach me: **[achmadrizqiale@gmail.com](mailto:achmadrizqiale@gmail.com)** · **[achmadrizqiale.com](https://achmadrizqiale.com/)**
 * (￣▽￣)ノ Pronouns: **he/him**
-* (´｡• ◡ •｡`) ♡ Fun fact: I love **ASCII art and kaomojis**
-- 📃 Microsoft Certified: Power BI Data Analyst Associate	- Jun 2025
-  - Credential ID: F674E46EE49CBD15
-  - Expires on: June 21, 2026
-- 📃 Microsoft Certified: Azure AI Fundamentals	- Jun 2024
-  - Credential ID: F674E46EE49CBD15
-  - Expires on: N/A 
+* (´｡• ◡ •｡`) ♡ Fun fact: I love **ASCII art, kaomojis, and Planetes**
+
+## Certifications
+* 📃 Microsoft Certified: **Power BI Data Analyst Associate** (Jun 2025)
+  * Credential ID: F674E46EE49CBD15
+* 📃 **Microsoft Office Specialist: Excel Expert**
+* 📃 Microsoft Certified: **Azure AI Fundamentals** (Jun 2024)
 
 ## Sales Visit Dashboard
 [![Sales Visit Dashboard](https://img.youtube.com/vi/jIbI-qexHZs/0.jpg)](https://www.youtube.com/watch?v=jIbI-qexHZs)
 
 ## Company Sales Dashboard
-[![Commpany Sales Dashboard](https://img.youtube.com/vi/JgIt1XEbSIw/0.jpg)](https://www.youtube.com/watch?v=JgIt1XEbSIw)
+[![Company Sales Dashboard](https://img.youtube.com/vi/JgIt1XEbSIw/0.jpg)](https://www.youtube.com/watch?v=JgIt1XEbSIw)
